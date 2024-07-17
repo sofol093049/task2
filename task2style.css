@@ -1,0 +1,41 @@
+.main{
+    height:280px;
+    width:98%;
+    background-color: #fceae9;
+    margin: auto;
+    position:absolute;
+    
+}
+
+.items{
+    margin-left: 36%;
+    margin-top: 50px;
+    
+}
+button{
+    height: 45px;
+    width: 100px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #ff5197;
+    color:white;
+    border-style: none;
+    margin-top: 9px;
+}
+
+.white{
+    background-color: white;
+}
+.copywright{
+    height: 45px;
+    width: 100px;
+    border-radius: 10px 10px 10px 10px;
+    background-color:black;
+    
+}
+.copywright p{
+    margin-top: 330px;
+    position: absolute;
+    
+margin-left: 450px;
+font-size: 90%;
+}
